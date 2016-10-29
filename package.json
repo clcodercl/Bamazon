@@ -1,0 +1,22 @@
+{
+  "name": "inquirer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cynthe/Bamazon.git"
+  },
+  "keywords": [
+    "inquirer"
+  ],
+  "author": "cynthe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cynthe/Bamazon/issues"
+  },
+  "homepage": "https://github.com/cynthe/Bamazon#readme"
+}
